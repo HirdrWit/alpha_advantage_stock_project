@@ -38,6 +38,7 @@ Please install the requirements.txt file.
 ```
 pip install -r requirements.txt
 ```
+Rename settings_sample.py to settings.py
 
 ## Running the program
 
